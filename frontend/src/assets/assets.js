@@ -61,7 +61,7 @@ export const products = [
     {
         _id: "aaaaa",
         name: "MUCLUXURY BLACK SEQUIN",
-        description: "“Designed for the spotlight, the MUCLUXURY Black Sequin Suit blends bold elegance with refined craftsmanship—made for those who dress like stars.”",
+        description: "Designed for the spotlight, the MUCLUXURY Black Sequin Suit blends bold elegance with refined craftsmanship—made for those who dress like stars.",
         category: "suit",
         price: 400000,
         image: [DSC_3465],
