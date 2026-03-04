@@ -15,7 +15,7 @@ import IMG_3990 from './IMG_3990.PNG'
 import IMG_5218 from './IMG_5218.PNG'
 import IMG_6705 from './IMG_6705.PNG'
 import IMG_6707 from './IMG_6707.PNG'
-import IMG_6450 from './IMG_6450.JPG'
+import IMG_6450 from './IMG_6450.jpg'
 
 
 import logo from './logo.png'
