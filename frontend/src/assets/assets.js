@@ -1,4 +1,4 @@
-import DSC_3465 from './DSC_3465.JPG'
+import DSC_3465 from './DSC_3465.jpg'
 import DSC_4375 from './DSC_4375.JPG'
 import DSC_4497 from './DSC_4497.JPG'
 import DSC_4547 from './DSC_4547.JPG'
